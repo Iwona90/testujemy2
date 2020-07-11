@@ -1,1 +1,1 @@
-ala ma kota
+nowy tekst
