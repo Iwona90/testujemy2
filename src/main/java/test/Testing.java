@@ -12,4 +12,6 @@ public class Testing {
         String[] names = {"Emilia", "Iwona", "Ania", "Adam", "Adrianna"};
         helloUser(names);
     }
-}
+
+
+    }
